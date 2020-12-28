@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/temmar1991/Azure%20Test%20Project/_apis/build/status/Temmar1991.python-sample-vscode-flask-tutorial?branchName=master)](https://dev.azure.com/temmar1991/Azure%20Test%20Project/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/temmar1991/Azure%20Test%20Project/_apis/build/status/Temmar1991.python-sample-vscode-flask-tutorial?branchName=master)]
 
 # Python/Flask Tutorial for Visual Studio Code
 
